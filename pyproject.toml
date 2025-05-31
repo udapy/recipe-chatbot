@@ -1,0 +1,7 @@
+[project]
+name = "recipe-chatbot"
+version = "0.1.0"
+description = "This recipe chatbot allows users to interact with a recipe database, providing information about ingredients, cooking methods, and more."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
